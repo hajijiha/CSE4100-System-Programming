@@ -9,7 +9,7 @@
 | `phase3/` | 백그라운드 작업, jobs/fg/bg/kill, 시그널과 작업 제어 |
 
 각 단계의 `shellex.c`가 구현 파일이며 `Makefile`로 `myshell`을 만듭니다.
-제출본에서 생략되어 있던 `csapp.c/.h`는 해당 과제의 제공 스켈레톤에서 보충했습니다.
+`csapp.c/.h`는 수업 제공 CS:APP 지원 라이브러리입니다.
 
 ## 빌드와 실행
 

@@ -11,7 +11,7 @@
 - `hex_dump.c/.h`, `debug.*`, `limits.h`, `round.h`: 수업에서 제공한 지원 코드.
 - `tester/`: 수업 제공 입력과 예상 출력, 검증 스크립트.
 
-제출 압축파일의 구현을 기준으로 정리했습니다. Pintos 기반 라이브러리의 기존 저작권 표시는 원본에 남아 있습니다.
+Pintos 기반 지원 라이브러리의 저작권과 라이선스는 원본 소스에 명시되어 있습니다.
 
 ## 빌드와 실행
 
@@ -35,5 +35,5 @@ bash prj1_tester.sh ../testlib
 
 - [과제 설명](docs/assignment.pdf)
 - [제출 보고서](docs/document_20211605.docx)
-- 2026-10-08 정리 환경: Ubuntu에서 `make` 빌드 통과.
+- 빌드 확인: Ubuntu, `make` 통과 (2026-10-08).
 - 제공 테스트 입력 38개는 예상 출력과 일치했습니다 (무작위 shuffle 제외).
