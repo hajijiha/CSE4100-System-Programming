@@ -12,12 +12,12 @@
 
 ## 프로젝트
 
-| 순서 | 프로젝트 | 구현 내용 |
-|---|---|---|
-| [prj1](prj1/README.md) | 자료구조 라이브러리 | 리스트·해시·비트맵 명령 처리 |
-| [prj2](prj2/README.md) | Unix Shell | 명령 실행, 파이프, 백그라운드 작업 제어 |
-| [prj3](prj3/README.md) | Concurrent Stock Server | I/O 다중화와 스레드 기반 동시 처리 |
-| [prj4](prj4/README.md) | Dynamic Memory Allocator | 분리 가용 리스트를 이용한 malloc/free/realloc |
+| 순서 | 프로젝트 | 구현 내용 | 과제 자료 |
+|---|---|---|---|
+| [prj1](prj1/README.md) | 자료구조 라이브러리 | 리스트·해시·비트맵 명령 처리 | [과제 설명](prj1/docs/assignment.pdf) |
+| [prj2](prj2/README.md) | Unix Shell | 명령 실행, 파이프, 백그라운드 작업 제어 | [과제 설명](prj2/docs/assignment.pdf) |
+| [prj3](prj3/README.md) | Concurrent Stock Server | I/O 다중화와 스레드 기반 동시 처리 | [과제 설명](prj3/docs/assignment.pdf) |
+| [prj4](prj4/README.md) | Dynamic Memory Allocator | 분리 가용 리스트를 이용한 malloc/free/realloc | [과제 설명](prj4/docs/assignment.pdf) |
 
 ## 저장소 구조
 
@@ -34,6 +34,6 @@ CSE4100-System-Programming/
 ## 자료 출처
 
 프로젝트에는 구현 소스와 수업 제공 스켈레톤·테스트 도구가 포함됩니다.
-제공 코드의 라이선스와 팀원별 저작권은 각 원본 파일에 명시되어 있습니다.
+수업 제공 코드와 도구의 출처·라이선스는 각 원본 파일의 표기를 따릅니다.
 
 [빌드 및 테스트](docs/verification.md)
